@@ -1,0 +1,29 @@
+{
+  "name": "mipush",
+  "version": "1.0.0",
+  "description": "Xiaomi Push Notification module for Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haozxuan/mipush.git"
+  },
+  "keywords": [
+    "xiaomi",
+    "push",
+    "notifications"
+  ],
+  "author": "haozxuan <haozxuan001@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haozxuan/mipush/issues"
+  },
+  "homepage": "https://github.com/haozxuan/mipush#readme"
+}
